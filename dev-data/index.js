@@ -70,3 +70,4 @@ req.write(postData);
 req.end();
  */
 const a = 2;
+const b = 34;
